@@ -1,0 +1,26 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1.24523" height="5.33335" transform="matrix(-1 0 0 1 10.666 5.3335)" fill="#02B9FF"/>
+<rect width="0.71094" height="4.26667" transform="matrix(-1 0 0 1 9.42188 5.8667)" fill="#02B9FF"/>
+<rect width="0.35547" height="3.20002" transform="matrix(-1 0 0 1 8.70898 6.40015)" fill="#02B9FF"/>
+<rect width="0.35547" height="2.13334" transform="matrix(-1 0 0 1 8.35352 6.93335)" fill="#02B9FF"/>
+<rect x="10.666" y="5.3335" width="1.24523" height="5.33335" fill="#02B9FF"/>
+<rect x="11.9102" y="5.8667" width="0.71094" height="4.26667" fill="#02B9FF"/>
+<rect x="12.6211" y="6.40015" width="0.35547" height="3.20002" fill="#02B9FF"/>
+<rect x="12.9766" y="6.93335" width="0.35547" height="2.13334" fill="#02B9FF"/>
+<rect x="8" width="3.91104" height="5.33335" fill="#FF6517"/>
+<rect x="11.9102" y="0.533203" width="0.71094" height="4.26667" fill="#FF6517"/>
+<rect x="12.6211" y="1.06665" width="0.35547" height="3.20002" fill="#FF6517"/>
+<rect x="12.9766" y="1.6001" width="0.35547" height="2.13334" fill="#FF6517"/>
+<rect width="3.91104" height="5.33335" transform="matrix(-1 0 0 1 7.99805 0)" fill="#FF001A"/>
+<rect width="0.71094" height="4.26667" transform="matrix(-1 0 0 1 4.08789 0.533203)" fill="#FF001A"/>
+<rect width="0.35547" height="3.20002" transform="matrix(-1 0 0 1 3.37695 1.06665)" fill="#FF001A"/>
+<rect width="0.35547" height="2.13334" transform="matrix(-1 0 0 1 3.02148 1.6001)" fill="#FF001A"/>
+<rect width="3.91104" height="5.33335" transform="matrix(-1 0 0 1 7.99805 5.3335)" fill="#904BFF"/>
+<rect width="0.71094" height="4.26667" transform="matrix(-1 0 0 1 4.08789 5.8667)" fill="#904BFF"/>
+<rect width="0.35547" height="3.20002" transform="matrix(-1 0 0 1 3.37695 6.40015)" fill="#904BFF"/>
+<rect width="0.35547" height="2.13334" transform="matrix(-1 0 0 1 3.02148 6.93359)" fill="#904BFF"/>
+<path d="M7.99805 10.6667H4.08701V16.0001H6.5788V15.4636H7.28832V14.9319H7.64575V14.4061H7.99805V10.6667Z" fill="#04CF67"/>
+<rect width="0.71094" height="4.26667" transform="matrix(-1 0 0 1 4.08789 11.2)" fill="#04CF67"/>
+<rect width="0.35547" height="3.20002" transform="matrix(-1 0 0 1 3.37695 11.7334)" fill="#04CF67"/>
+<rect width="0.35547" height="2.13334" transform="matrix(-1 0 0 1 3.02148 12.2668)" fill="#04CF67"/>
+</svg>
